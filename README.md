@@ -2,11 +2,11 @@
 
 ## Overview
 
-This Ansible role, `nginx_setup`, automates the installation and configuration of Nginx to serve static HTML pages. This document provides details about the Nginx setup within this role.
+This Ansible role, `nisheshnginx`, automates the installation and configuration of Nginx to serve static HTML pages. This document provides details about the Nginx setup within this role.
 
 ### Role Name
 
-- **Role**: nginx_setup
+- **Role**: nisheshnginx
 - **Author**: Nishesh Thakuri
 - **Description**: Automates the installation and configuration of Nginx for serving static web pages.
 
